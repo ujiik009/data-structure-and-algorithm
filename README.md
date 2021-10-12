@@ -8,7 +8,7 @@
 - graph
 
 ## algorithm
-- sort
+- Sorting
     - Selection Sort
     - Bubble Sort
     - Recursive Bubble Sort
@@ -19,7 +19,7 @@
     - Quick Sort
     - ShellSort
     - Radix Sort
-- search
+- Searching
     - Linear Search
     - Binary Search
     - Jump Search
